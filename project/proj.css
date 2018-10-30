@@ -1,0 +1,65 @@
+
+
+.banner{
+    background-color: #ed6f5b;
+    padding: 55px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+    font-family: 'Patua One', cursive;
+}
+.menu{
+  background-color: black;
+  text-align: center;
+  padding: 0;
+  color: white;
+  font-family: 'Patua One', cursive;
+
+}
+ul{
+   list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+}
+li{
+    display:block;
+    color:black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    float: left;
+  }
+li:hover {
+    background-color: #F4A89C;
+  }
+
+.content{
+  margin-left: 80px;
+  margin-right:80px;
+  background-color: ;
+
+}
+.p1{
+  margin: 5px 120px 45px 120px;
+  font-size: 20px;
+
+}
+.a1, .a2{
+  text-decoration: none;
+
+}
+
+.colomn1{
+  float: left;
+  width: 48%;
+  margin-bottom: 45px;
+
+
+}
+.colomn2{
+  float: right;
+  width: 48%;
+  margin-bottom: 45px;
+}
